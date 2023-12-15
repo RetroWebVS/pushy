@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: dkdkdkm/tieoie:latest
+          tags: dkdkdkm/www:latest
